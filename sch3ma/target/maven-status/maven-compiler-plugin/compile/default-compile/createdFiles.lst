@@ -1,0 +1,10 @@
+ch\christianmenz\sch3ma\annotation\PostProcessor.class
+ch\christianmenz\sch3ma\AnnotationProcessor.class
+ch\christianmenz\sch3ma\model\Schema.class
+ch\christianmenz\sch3ma\SchemaGenerator.class
+ch\christianmenz\sch3ma\model\ObjectProperty.class
+ch\christianmenz\sch3ma\model\Template.class
+ch\christianmenz\sch3ma\model\Property.class
+ch\christianmenz\sch3ma\annotation\Schema.class
+ch\christianmenz\sch3ma\annotation\Property.class
+ch\christianmenz\sch3ma\model\Type.class
